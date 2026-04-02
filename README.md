@@ -72,7 +72,7 @@ La ciberseguridad es un deporte de equipo. La acción real ocurre en nuestra com
 
 ## ☕ Apoya el Proyecto
 
-Este proyecto es un esfuerzo masivo por democratizar la educación técnica. Si este contenido te resulta útil, puedes apoyar el proyecto en Ko-fi. Cada aportación ayuda a mantener la documentación y el tiempo dedicado a este roadmap.
+Si este contenido te resulta útil, puedes apoyar el proyecto en Ko-fi. Cada aportación ayuda a mantener la documentación y el tiempo dedicado a este roadmap.
 
 <p align="center">
   <a href="https://ko-fi.com/hollowsec">
